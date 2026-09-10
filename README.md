@@ -124,7 +124,7 @@ entre-nos-web/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/entre-nos.git
+git clone https://github.com/maarirods/entre-nos.git
 cd entre-nos
 ```
 
