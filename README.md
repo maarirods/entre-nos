@@ -8,6 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL%20%2B%20Realtime-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com/)
+[![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-Agentic%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
 [![Orgulho LGBTQ+](https://img.shields.io/badge/Design-LGBTQ%2B%20Pride-FF2A6D?style=for-the-badge)](#-identidade-visual-e-ergonomia-mobile)
 
 ---
