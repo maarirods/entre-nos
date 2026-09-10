@@ -190,12 +190,22 @@ Para consulta e auditoria técnica detalhada:
 
 ---
 
-## 💜 Licença
+## 💜 Autoria & Direitos Autorais
 
-Distribuído sob a licença **MIT**. Veja `LICENSE` para mais detalhes.
+Este projeto foi idealizado, concebido e desenhado por **Mariana Rodrigues ([@maarirods](https://github.com/maarirods))** como criadora oficial, responsável pela concepção do produto, dinâmicas afetivas, catálogo de perguntas e experiência do usuário.
+
+- **Criadora & Idealizadora:** [Mariana Rodrigues](https://github.com/maarirods) 👩‍💻✨
+- **Apoio no Desenvolvimento & Engenharia:** [Antigravity AI](https://github.com/google-deepmind) *(Google DeepMind)* 🤖💜
+
+---
+
+## 📜 Licença
+
+Distribuído sob a licença **MIT**. Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 
 ---
 
 <div align="center">
-  <sub>Feito com carinho para celebrar o amor, o diálogo e a cumplicidade. 🏳️‍🌈✨</sub>
+  <sub>Concebido com carinho por <a href="https://github.com/maarirods"><b>Mariana Rodrigues</b></a> com apoio de <b>Antigravity AI</b> para celebrar o amor, o diálogo e a cumplicidade. 🏳️‍🌈✨</sub>
 </div>
+
