@@ -192,9 +192,9 @@ Para consulta e auditoria técnica detalhada:
 
 ## 💜 Autoria & Direitos Autorais
 
-Este projeto foi idealizado, concebido e desenhado por **Mariana Rodrigues ([@maarirods](https://github.com/maarirods))** como criadora oficial, responsável pela concepção do produto, dinâmicas afetivas, catálogo de perguntas e experiência do usuário.
+Este projeto foi idealizado, concebido e desenhado por **Mariana Rodriguez ([@maarirods](https://github.com/maarirods))** como criadora oficial, responsável pela concepção do produto, dinâmicas afetivas, catálogo de perguntas e experiência do usuário.
 
-- **Criadora & Idealizadora:** [Mariana Rodrigues](https://github.com/maarirods) 👩‍💻✨
+- **Criadora & Idealizadora:** [Mariana Rodriguez](https://github.com/maarirods) 👩‍💻✨
 - **Apoio no Desenvolvimento & Engenharia:** [Antigravity AI](https://github.com/google-deepmind) *(Google DeepMind)* 🤖💜
 
 ---
@@ -206,6 +206,6 @@ Distribuído sob a licença **MIT**. Consulte o arquivo [`LICENSE`](LICENSE) par
 ---
 
 <div align="center">
-  <sub>Concebido com carinho por <a href="https://github.com/maarirods"><b>Mariana Rodrigues</b></a> com apoio de <b>Antigravity AI</b> para celebrar o amor, o diálogo e a cumplicidade. 🏳️‍🌈✨</sub>
+  <sub>Concebido com carinho por <a href="https://github.com/maarirods"><b>Mariana Rodriguez</b></a> com apoio de <b>Antigravity AI</b> para celebrar o amor, o diálogo e a cumplicidade. 🏳️‍🌈✨</sub>
 </div>
 
